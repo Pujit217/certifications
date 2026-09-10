@@ -7,7 +7,7 @@ A collection of my professional certifications and technical course credentials 
 ### AWS Certified Cloud Practitioner
 - Issuer: Amazon Web Services
 - Focus: Cloud fundamentals, AWS services, security, pricing, and architecture
-- Credential: [View Certificate](./AWS%20Certified%20Cloud%20Practitioner.pdf)
+- Credential: [View Certificate](./AWS Certified Cloud Practitioner certificate.pdf)
 
 ### Fundamentals of Generative AI
 - Issuer: AWS Training & Certification
